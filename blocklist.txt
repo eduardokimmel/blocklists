@@ -3,11 +3,12 @@
 ^.+\.(ru|cn|tw)$
 
 # Ads
-lgsmartad.com
+*.lgsmartad.com
 
 # Sites
 baidu.com
 
 # Distractions
-reddit.com
-tecnoblog.net
+*.reddit.com
+*.tecnoblog.net
+g1.globo.com
