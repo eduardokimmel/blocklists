@@ -1,0 +1,13 @@
+
+# Countries
+^.+\.(ru|cn|tw)$
+
+# Ads
+lgsmartad.com
+
+# Sites
+baidu.com
+
+# Distractions
+reddit.com
+tecnoblog.net
