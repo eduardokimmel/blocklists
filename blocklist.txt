@@ -1,14 +1,14 @@
 
 # Countries
-^.+\.(ru|cn|tw)$
+^.+\.(ru|cn|tw|jp)$
 
 # Ads
-*.lgsmartad.com
+lgsmartad.com
 
 # Sites
 baidu.com
 
 # Distractions
 *.reddit.com
-*.tecnoblog.net
+tecnoblog.net
 g1.globo.com
